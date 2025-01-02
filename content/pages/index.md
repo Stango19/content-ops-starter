@@ -49,7 +49,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: SRS HEALTH
       color: text-primary
       type: Badge
     elementId: ''
