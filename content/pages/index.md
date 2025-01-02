@@ -25,15 +25,6 @@ sections:
       Community Support: Connect with others who understand what you're going
       through-share experiences, ask questions, and find support.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
