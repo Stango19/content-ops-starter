@@ -9,9 +9,21 @@ sections:
       type: TitleBlock
     subtitle: Slipping Rib Syndrome Health Portal
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Here's what our platform offers:
+
+
+      Self-Assessment Tool: A simple way to test if you might have slipping rib
+      syndrome. 
+
+
+
+      Expert Resources: Access to articles, videos, and tips to help manage
+      symptoms and improve your quality of life. 
+
+
+
+      Community Support: Connect with others who understand what you're going
+      through-share experiences, ask questions, and find support.
     actions:
       - label: Get started
         altText: ''
