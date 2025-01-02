@@ -24,16 +24,7 @@ sections:
 
       Community Support: Connect with others who understand what you're going
       through-share experiences, ask questions, and find support.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/BFB416A4-CD1F-439D-A5AF-CE43DCD34342.png
       altText: Unblock your team boost your time to production preview
